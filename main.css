@@ -1,0 +1,17 @@
+* {
+margin: 0px;
+padding: 0px;
+}
+
+section {
+    background-color: #e84610;
+    height: 100%;
+}
+
+html, body {
+    height: 100%;
+}
+
+main {
+    height: 100%;
+}
